@@ -1,7 +1,7 @@
 <template>
   <section>
     <div class="container">
-      <WeightCalculator />
+      <WeightConvertor />
     </div>
   </section>
 </template>
